@@ -1,0 +1,5 @@
+2022 Auburn University Website Template
+
+The pages in this package are all written in PHP so you will need to put them on a live server to see the complete rendering.
+
+For more information on the template, please go to:	https://www.auburn.edu/template/
