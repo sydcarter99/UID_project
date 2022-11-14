@@ -66,9 +66,9 @@ include ($headerpath);
 		<div class="content_row row justify-content-around example-1">
 
 			
-			<h2 class="section-header">H2 Section Header</h2>
+			<h2 class="section-header">Spectrum Educational Tool</h2>
 
-			<p>Aliquet eget sit amet tellus cras adipiscing. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing. Cras pulvinar mattis nunc sed blandit libero volutpat. Congue mauris rhoncus aenean vel elit. Tellus orci ac auctor augue mauris augue. Eu scelerisque felis imperdiet proin fermentum. Sagittis eu volutpat odio facilisis. Tincidunt lobortis feugiat vivamus at augue. Proin fermentum leo vel orci porta non pulvinar neque laoreet. Accumsan tortor posuere ac ut consequat semper viverra. Neque gravida in fermentum et sollicitudin ac. Laoreet sit amet cursus sit amet dictum sit. Gravida neque convallis a cras semper. Eu ultrices vitae auctor eu augue ut lectus. In massa tempor nec feugiat nisl pretium fusce id.</p>
+			<p>Innovative teacher training introduces a new set of demanding challenges and issues. Teaching has become a very complex and demanding process. Teachers with little exposure to digital media and with little preparation with digital media may face difficulties in dealing with the complexity of classroom teacing. These new teachers may often find the demands of the classroom too challenging and quckily become discouraged or adopt a simplisitc view of teaching where 'Tricks & Trade' serve as a substitute for thoughtful process.</p>
 
 			<div class="col-lg-5">
 				<h3 class="section-header">H3 Section Header</h3>
@@ -94,9 +94,9 @@ include ($headerpath);
 			
 		<div class="content_row row example-2">
 
-			<h2 class="section-header">H2 Section Header</h2>
+			<h2 class="section-header">Why Spectrum Educational Tool?</h2>
 
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Id consectetur purus ut faucibus pulvinar. A pellentesque sit amet porttitor eget dolor. Vitae semper quis lectus nulla at volutpat diam ut venenatis. Ac tincidunt vitae semper quis lectus. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Proin fermentum leo vel orci porta non pulvinar. Accumsan tortor posuere ac ut consequat semper viverra nam. Commodo quis imperdiet massa tincidunt nunc. Dictum at tempor commodo ullamcorper. Neque volutpat ac tincidunt vitae semper quis lectus nulla at. Et malesuada fames ac turpis egestas.</p>
+			<p>By using Spectrum Education tool, it provides extensive training of teachers which will help them in understanding digital Media and know better strategies for successful classroom management. The teachers will be well versed with teaching skills, instructional strategies, curricula, and assessment practices. Our goal is to reinforce best practices for classroom management and to create an online learning environment to support pre-service and in-dervice teachers.</p>
 			
 			<h3 class="section-header">H3 Section Header</h3>
 
