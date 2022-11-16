@@ -36,7 +36,7 @@
 
                     <div class="form-group">
 
-                        <form id="login-nav" method="post" action="Login" class="form">
+                        <form id="login-nav" method="post" action="../_includes/login-inc-test.php" class="form">
 
                             <div class="form-group">
                                 <label class="sr-only">Email</label>
@@ -82,7 +82,32 @@
                                     Login</button>
                             </div>  
 
-
+  <!-- Example Code -->
+    
+  <div aria-live="polite" aria-atomic="true" class="position-relative">
+      <!-- Position it: -->
+      <!-- - `.toast-container` for spacing between toasts -->
+      <!-- - `top-0` & `end-0` to position the toasts in the upper right corner -->
+      <!-- - `.p-3` to prevent the toasts from sticking to the edge of the container  -->
+      <div class="toast-body">
+    
+        <!-- Then put toasts within -->
+        <div class="toast fade show" role="alert" aria-live="assertive" aria-atomic="true">
+          <div class="toast-header">    
+            <strong class="me-auto">Spectrum</strong>
+            <small class="text-muted">Just now</small>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+          </div>
+          <div class="toast-body">
+            Username: <b>test</b>
+            </br>
+            Password: <b>test</b>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- End Example Code -->
                             <div class="login-or">
                                 <hr class="hr-or">
                                 <span class="span-or">or</span>
@@ -94,7 +119,7 @@
                             </div>
                         </form>
                     </div>
-
+             
                 </div>
             </div>
         </div>
