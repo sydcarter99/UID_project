@@ -1,15 +1,16 @@
 <?php
 
-require("../_includes/config.php");
+require("_includes/config.php");
 
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
+	$headerpath = "_includes/header.php";
 	$sitename = "Auburn University";
 	$pagetitle = "Spectrum";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
-	$nav_bar_path = "../_includes/navigation-bar.php";
+	$nav_bar_path = "_includes/navigation-bar.php";
 	/* ----------------- */
 		
 
@@ -60,7 +61,7 @@ include ($headerpath);
 
 	</div>
 <?php include ($nav_bar_path); ?>
-	<div id="page_content" class="page-content pillars" role="main">
+	<div id="page_content" class="page-content prebar" role="main">
 
 	
 		<div class="content_row row justify-content-around example-1">
@@ -71,14 +72,13 @@ include ($headerpath);
 			<p>Innovative teacher training introduces a new set of demanding challenges and issues. Teaching has become a very complex and demanding process. Teachers with little exposure to digital media and with little preparation with digital media may face difficulties in dealing with the complexity of classroom teacing. These new teachers may often find the demands of the classroom too challenging and quckily become discouraged or adopt a simplisitc view of teaching where 'Tricks & Trade' serve as a substitute for thoughtful process.</p>
 
 			<div class="col-lg-5">
-				<h3 class="section-header">H3 Section Header</h3>
-				<p>Auctor elit sed vulputate mi sit amet. Aliquet lectus proin nibh nisl condimentum id venenatis a. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. A diam sollicitudin tempor id eu nisl nunc. Arcu non sodales neque sodales ut etiam. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Malesuada fames ac turpis egestas maecenas. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Nunc non blandit massa enim nec dui.</p>
+				<h3 class="section-header">Spectrum Educational Tool</h3>
+				<p>Teaching has become a very complex and demanding process. Teachers with little exposure to digital media and with little preparation with digital media may face difficulties in dealing with the complexity of classroom teacing. These new teachers may often find the demands of the classroom too challenging and quckily become discouraged or adopt a simplisitc view of teaching where 'Tricks & Trade' serve as a substitute for thoughtful process.</p>
 			</div>
 			
 			
 			<div class="col-lg-5">
 				<h3 class="section-header">H3 Section Header</h3>
-				<p>Auctor elit sed vulputate mi sit amet. </p>
 				
 				<div class="row">
 					

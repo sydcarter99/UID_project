@@ -1,4 +1,4 @@
-<? require("../_includes/config.php"); ?>
+<? require("_includes/config.php"); ?>
 
 
   <link rel="stylesheet" href="../_css/style.css">
@@ -7,14 +7,14 @@
 
 <?
 	
-	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
-
+	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */  
+    $headerpath = "_includes/header.php";
 	$sitename = "Auburn University";
 	$pagetitle = "2022 Web Template";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
-    $nav_bar_path = "../_includes/navigation-bar.php";
+    $nav_bar_path = "_includes/navigation-bar.php";
 
 	/* ----------------- */
 

@@ -1,4 +1,4 @@
-<? require("../_includes/config.php"); ?>
+<? require("_includes/config.php"); ?>
 
 
   <link rel="stylesheet" href="../_css/style.css">
@@ -8,13 +8,13 @@
 <?
 	
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
-
+	$headerpath = "_includes/header.php";
 	$sitename = "Auburn University";
-	$pagetitle = "2022 Web Template";
+	$pagetitle = "Spectrum";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
-  $nav_bar_path = "../_includes/navigation-bar.php";
+  $nav_bar_path = "_includes/navigation-bar.php";
 
 	/* ----------------- */
 
@@ -25,40 +25,48 @@
 <?php include ($nav_bar_path);?>
 
 
-<!------------------ Grid ------------------>
+<!------------------ Banner ------------------>
 <div id="title_container" class="title-container row align-items-center" role="banner" aria-labelledby="page_title">
 
 <div class="content col row align-items-center">
   <div class="col">
-    <h1 id="page_title" class="title">Topics name</h1>
-    <div class="morecontent">
-      
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      
+    <h1 id="page_title" class="title">Case study</h1>
+    <div class="morecontent">      
     </div>
   </div>
   <div class="angle-right"></div>
 </div>
-
 </div>
 
-<div id="page_content" class="page-content arrow-bottom" role="main">
+</div>
+<!------------------ End Banner ------------------>
+
+<div id="page_content" class="page-content pillars" role="main">
 
 <div class="content_row row">
-  
+  <div class="col-md-3 ">
+
   <? include ("../_includes/navigation-secondary-vert.php"); ?>
-  
-  <!------- Main Content ------->
-  <div class="col">
-  
-    <h2 class="section-header">Chapter 1</h2>
+  </div>
+  <div class="col-md-1"></div>
+
+<!------- Main Content ------->
+<div class="col-md-7 ">
+    <h2 class="section-header">Video 1</h2>
     
     <p>Aliquet eget sit amet tellus cras adipiscing. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing.</p>
     
 
+    <div class="ratio ratio-16x9">
+      <iframe width="1412" height="537" src="https://www.youtube.com/embed/VB3ZUZnYJE8" title="Samford Hall at Auburn University" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    
+    <br/>
+    <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="quiz1.php">Discussion and Reflection</a>
+
   </div>
   <!------- End Main Content ------->
-
+  
 </div>
 
 </div>	
