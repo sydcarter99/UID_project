@@ -17,22 +17,24 @@
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
 	  <ul class="navbar-nav justify-content-start flex-grow-1 pe-3">
 		<li class="nav-item">
-		  <a class="nav-link" href="index.php">Spectrum</a>
+		  <a class="nav-link" href="../index.php">Spectrum</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="home.php">Courses</a>
+		  <a class="nav-link" href="../home.php">Courses</a>
 		</li> 
 		<li class="nav-item dropdown">
-          <a id="navbarDropdown01" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a id="navbarDropdown01" class="nav-link dropdown-toggle" href="../#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Topics
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown01">
-			<li><a class="dropdown-item" href="course-bio-page.php">Case Studies</a></li>
-			  <li><a class="dropdown-item" href="course-bio-page.php">Life Cases</a></li>
+			<li><a class="dropdown-item" href="../course.php">Topics #1</a></li>
+			  <li><a class="dropdown-item" href="../course.php">Topics #2</a></li>
+			  <li><a class="dropdown-item" href="../course.php">Topics #3</a></li>
+			  <li><a class="dropdown-item" href="../course.php">Topics #4</a></li>
           </ul>
         </li>   
 		<li class="nav-item">
-		  <a class="nav-link" href="process.php">Process</a>
+		  <a class="nav-link" href="../process.php">Process</a>
 		</li>
 	  </ul>
 	  	<?php
@@ -43,7 +45,7 @@
 		  </form>';
 		}
 		else {
-			echo '<a class="form-inline mt-2 mt-md-0 btn btn-au-boutline my-2 my-sm-0" href="register.php">Sign up</a>';
+			echo '<a class="form-inline mt-2 mt-md-0 btn btn-au-boutline my-2 my-sm-0" href="../register.php">Sign up</a>';
 		};
 		?>
 	</div>

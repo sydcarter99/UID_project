@@ -27,7 +27,7 @@
 <body>
 	
 	<? include ($gdprpath);?>
-	
+
 	<div id="top" role="navigation" aria-label="Main navigation shortcuts">
 		<a href="#" data-bs-toggle="modal" data-bs-target="#au_navigation" class="skipto btn">Skip to Primary Navigation</a>
 		<a href="#page_content" class="skipto btn">Skip to Content</a>
