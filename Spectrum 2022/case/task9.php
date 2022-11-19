@@ -5,7 +5,7 @@
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Lesson 2: Apathetic Student";
+	$pagetitle = "Lesson 9: Personal Talker";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -51,16 +51,16 @@
 				<div class="col-md-1"></div>
 
 				<div class="col-md-7 information">
-					<h2 class="section-header">Lesson 2: Apathetic Student</h2>
+					<h2 class="section-header">Lesson 9: Personal Talker</h2>
 					<br>
 
 					<h4 class="section-header ">Task Description</a></h4>
 					<br/>
 
-						<p>Many students are apathetic for many different reasons. In this case, John was not interested in this class. But the teacher provides more motivation and activities to intrigue John and peak his interest.</p><a href="course.php">
-					</a>
+						<p>Ms. Smith is a new teacher and to get to know her students better she asks them about their weekend every Monday. She has a student named Andy that always tells the class and her too much information, because of this she might have to change her Monday routine.
+						</p>
 					<br/>
-      				<a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="video2.php">Start the Video</a>
+      				<a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="video9.php">Start the Video</a>
      
 				</div>
 			

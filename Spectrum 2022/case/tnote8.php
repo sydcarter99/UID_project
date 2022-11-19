@@ -10,7 +10,7 @@
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Lesson 2: Apathetic Student";
+	$pagetitle = "Lesson 8: Questioning Student";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -52,10 +52,10 @@
 
 <!------- Main Content ------->
 <div class="col-md-7 ">
-    <h2 class="section-header">Lesson 2: Apathetic Student</h2>
+    <h2 class="section-header">Lesson 8: Questioning Student</h2>
     <br>
 
-		<h4 class="section-header ">Video</a></h4>
+		<h4 class="section-header ">Teacher's Note</a></h4>
     </br>    
 
     <div class="ratio ratio-16x9">
@@ -63,7 +63,7 @@
     </div>
     
     <br/>
-    <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="quiz2.php">Discussion and Reflection</a>
+    <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="task9.php">Next Lession</a>
 
   </div>
   <!------- End Main Content ------->

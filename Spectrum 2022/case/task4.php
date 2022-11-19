@@ -5,7 +5,7 @@
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Lesson 2: Apathetic Student";
+	$pagetitle = "Lesson 4: Critical Thinking";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -51,16 +51,16 @@
 				<div class="col-md-1"></div>
 
 				<div class="col-md-7 information">
-					<h2 class="section-header">Lesson 2: Apathetic Student</h2>
+					<h2 class="section-header">Lesson 4: Critical Thinking</h2>
 					<br>
 
 					<h4 class="section-header ">Task Description</a></h4>
 					<br/>
 
-						<p>Many students are apathetic for many different reasons. In this case, John was not interested in this class. But the teacher provides more motivation and activities to intrigue John and peak his interest.</p><a href="course.php">
-					</a>
+						<p>Melissa is a teaching student and wants to provide her class with real world sciences examples and allow them to use their own thinking skills. Melissa wants to try a problem-solving lab with her tenth-grade biology class. During the lab she expected that her students would make an important connection between genetics concepts and the real world as they determined the genotypic and phenotypic ratio for Indian corn. Melissa was excited about the lab, but her students quickly became disengaged and off task. She was left trying to figure out what she did wrong.
+							</p>
 					<br/>
-      				<a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="video2.php">Start the Video</a>
+      				<a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="video4.php">Start the Video</a>
      
 				</div>
 			

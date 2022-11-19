@@ -5,7 +5,7 @@
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Lesson 2: Apathetic Student";
+	$pagetitle = "Lesson 3: Cooperation in class";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -51,16 +51,16 @@
 				<div class="col-md-1"></div>
 
 				<div class="col-md-7 information">
-					<h2 class="section-header">Lesson 2: Apathetic Student</h2>
+					<h2 class="section-header">Lesson 3: Cooperation in class</h2>
 					<br>
 
 					<h4 class="section-header ">Task Description</a></h4>
 					<br/>
 
-						<p>Many students are apathetic for many different reasons. In this case, John was not interested in this class. But the teacher provides more motivation and activities to intrigue John and peak his interest.</p><a href="course.php">
-					</a>
+						<p>Maggie is an enthusiastic and highly motivated third grade teacher in an inner-city school and completing her first year. Her determination to make science personally meaningful for her third grade students spur her to commit considerable time and resources to setting up and using cooperative groups to carry out scientific investigations. The early success that she sees these groups achieve is later tempered by the knowledge that not all students in every group are benefiting from the shared experience. Maggie wonders how her decision, based on sound and professionally advocated classroom-based research, could have led to such undesirable and unexpected ends.
+					</p>
 					<br/>
-      				<a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="video2.php">Start the Video</a>
+      				<a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="video3.php">Start the Video</a>
      
 				</div>
 			
