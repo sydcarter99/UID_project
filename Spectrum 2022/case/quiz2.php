@@ -126,11 +126,13 @@
           </label>
         </div>
       </p>
-      <br/>
+      </ul>
+    </br>
       <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="answer2.php">Check Answer</a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a class="mt-2 mt-md-0 btn btn-au-ooutline my-2 my-sm-0" href="video2.php">Back to Video</a>
-  </div>
+  
+    </div>
   <!------- End Main Content ------->
 </div>
 

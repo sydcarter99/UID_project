@@ -27,8 +27,8 @@
             Topics
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown01">
-			<li><a class="dropdown-item" href="course-bio-page.php">Case Studies</a></li>
-			  <li><a class="dropdown-item" href="course-bio-page.php">Life Cases</a></li>
+			<li><a class="dropdown-item" href="case-bio.php">Case Studies</a></li>
+			  <li><a class="dropdown-item" href="life-bio.php">Life Cases</a></li>
           </ul>
         </li>   
 		<li class="nav-item">

@@ -59,7 +59,7 @@
     </br>    
 
     <div class="ratio ratio-16x9">
-      <iframe width="1412" height="537" src="https://www.youtube.com/embed/VB3ZUZnYJE8" title="Samford Hall at Auburn University" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <video src="../_assets/case/5tnote.mp4" position="relative" controls></video>
     </div>
     
     <br/>

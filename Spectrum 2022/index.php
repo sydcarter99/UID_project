@@ -64,22 +64,29 @@ include ($headerpath);
 	<div id="page_content" class="page-content prebar" role="main">
 
 	
-		<div class="content_row row justify-content-around example-1">
+		<div class="content_row row justify-content-around example-2">
 
 			
-			<h2 class="section-header">Spectrum Educational Tool</h2>
-
-			<p>Innovative teacher training introduces a new set of demanding challenges and issues. Teaching has become a very complex and demanding process. Teachers with little exposure to digital media and with little preparation with digital media may face difficulties in dealing with the complexity of classroom teacing. These new teachers may often find the demands of the classroom too challenging and quckily become discouraged or adopt a simplisitc view of teaching where 'Tricks & Trade' serve as a substitute for thoughtful process.</p>
+			<h2 class="section-header">Everything you want to know</h2>
+			</br>
 
 			<div class="col-lg-5">
-				<h3 class="section-header">Spectrum Educational Tool</h3>
-				<p>Teaching has become a very complex and demanding process. Teachers with little exposure to digital media and with little preparation with digital media may face difficulties in dealing with the complexity of classroom teacing. These new teachers may often find the demands of the classroom too challenging and quckily become discouraged or adopt a simplisitc view of teaching where 'Tricks & Trade' serve as a substitute for thoughtful process.</p>
+				<div class="row">
+				<p>
+				Teaching has become a very <strong>Complex & Demanding</strong> process. Teachers with little exposure to digital media and with little preparation with digital media may face difficulties in dealing with the complexity of classroom teacing.
+				</p>
+				</div>
+				
+				<div class="row">
+				<h3 class="section-header"> --An Educational Tool</h3>
+
+				<h3 class="section-header"></h3>
+				<p> These new teachers may often find the demands of the classroom too challenging and quckily become discouraged or adopt a simplisitc view of teaching where <strong>'Tricks & Trade'</strong> serve as a substitute for thoughtful process.</p>
+				</div>
 			</div>
 			
 			
-			<div class="col-lg-5">
-				<h3 class="section-header">H3 Section Header</h3>
-				
+			<div class="col-lg-5">				
 				<div class="row">
 					
 				<div class="ratio ratio-16x9">
@@ -90,16 +97,25 @@ include ($headerpath);
 			
 		</div>	
 			
-		<div class="content_row row example-2">
+		<div class="content_row row justify-content-around example-2">
 
 			<h2 class="section-header">Why Spectrum Educational Tool?</h2>
-
-			<p>By using Spectrum Education tool, it provides extensive training of teachers which will help them in understanding digital Media and know better strategies for successful classroom management. The teachers will be well versed with teaching skills, instructional strategies, curricula, and assessment practices. Our goal is to reinforce best practices for classroom management and to create an online learning environment to support pre-service and in-dervice teachers.</p>
+				
 			
-			<h3 class="section-header">H3 Section Header</h3>
-
-			<p>Aliquet eget sit amet tellus cras adipiscing. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing. Cras pulvinar mattis nunc sed blandit libero volutpat. Congue mauris rhoncus aenean vel elit. Tellus orci ac auctor augue mauris augue. Eu scelerisque felis imperdiet proin fermentum. Sagittis eu volutpat odio facilisis. Tincidunt lobortis feugiat vivamus at augue. Proin fermentum leo vel orci porta non pulvinar neque laoreet. Accumsan tortor posuere ac ut consequat semper viverra. Neque gravida in fermentum et sollicitudin ac. Laoreet sit amet cursus sit amet dictum sit. Gravida neque convallis a cras semper. Eu ultrices vitae auctor eu augue ut lectus. In massa tempor nec feugiat nisl pretium fusce id.</p>
-			
+			<div class ="row">
+				<div class="col-lg">
+					<h4 class="section-header">We provides</h3>
+					<p>Extensive training of teachers which will help them in understanding digital Media and know better strategies for successful classroom management.</p>
+				</div>
+				<div class="col-lg">
+					<h4 class="section-header">Merits</h3>
+					<p>The teachers will be well versed with teaching skills, instructional strategies, curricula, and assessment practices.</p>
+				</div>
+				<div class="col-lg">
+					<h4 class="section-header">Our goal</h3>
+					<p>Our goal is to reinforce best practices for classroom management and to create an online learning environment to support pre-service and in-dervice teachers.</p>
+				</div>
+			</div>
 		</div>
 			
 	</div>	
