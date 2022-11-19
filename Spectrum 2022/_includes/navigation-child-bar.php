@@ -26,11 +26,9 @@
           <a id="navbarDropdown01" class="nav-link dropdown-toggle" href="../#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Topics
           </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown01">
-			<li><a class="dropdown-item" href="../course.php">Topics #1</a></li>
-			  <li><a class="dropdown-item" href="../course.php">Topics #2</a></li>
-			  <li><a class="dropdown-item" href="../course.php">Topics #3</a></li>
-			  <li><a class="dropdown-item" href="../course.php">Topics #4</a></li>
+		  <ul class="dropdown-menu" aria-labelledby="navbarDropdown01">
+			<li><a class="dropdown-item" href="../case-bio.php">Case Studies</a></li>
+			  <li><a class="dropdown-item" href="../life-bio.php">Life Cases</a></li>
           </ul>
         </li>   
 		<li class="nav-item">

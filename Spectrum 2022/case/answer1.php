@@ -70,9 +70,9 @@
       <article>
       <strong>Yes</strong>, Darren should be permitted to continue his presentation.
       Consistent with teaching practices that are aligned with constructivist philosophy and learning theory, current thinking in science education reflects a shift from the teacher imparting knowledge to students, with communication mainly one way, to the teacher as a facilitator of learning with students acting both as learners and, in some circumstances, as teachers too. When this occurs, networks of student teachers and learners may spring into existence, and it is quite possible that the teacher sometimes begins acting as a co-learner as well.
-      <br>
+    </br>
       </article>
-      <br/>
+      </ul>
       <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="tnote1.php">Teacher's Note</a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a class="mt-2 mt-md-0 btn btn-au-ooutline my-2 my-sm-0" href="video1.php">Back to Video</a>

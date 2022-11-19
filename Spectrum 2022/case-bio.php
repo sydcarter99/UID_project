@@ -38,7 +38,7 @@
 			
 				<div class="col-md-3 image">
 					<a href="case/task1.php">
-					<img src="_assets/images/video-blank.jpg"  class="img-thumbnail" alt="...">
+					<img src="_assets/images/case.jpeg"  class="img-thumbnail" alt="...">
 					</a>
 					<br/>
 					<br/>
@@ -57,7 +57,7 @@
 					<div class="name">COURSE DESCRIPTION</div>
 					</br>
 					
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p>A case study is an in-depth study of one person, group, or event. In a case study, nearly every aspect of the subject's life and history is analyzed to seek patterns and causes of behavior. Case studies can be used in various fields, including psychology, medicine, education, anthropology, political science, and social work.</p>
 
 					
 				</div>

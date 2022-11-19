@@ -111,8 +111,9 @@
           </label>
         </div>
       </p>
-      <br/>
+      </ul>
 
+      <br/>
 
       <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="answer9.php">Check Answer</a>
       &nbsp;&nbsp;&nbsp;&nbsp;

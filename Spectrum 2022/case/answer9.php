@@ -84,7 +84,7 @@
       <br>
       </article>
       <br/>
-
+      </ul>
       <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="tnote9.php">Teacher's Note</a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a class="mt-2 mt-md-0 btn btn-au-ooutline my-2 my-sm-0" href="video9.php">Back to Video</a>

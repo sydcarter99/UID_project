@@ -23,7 +23,6 @@ require("_includes/config.php");
 			<div class="col">
 				<h1 id="page_title" class="title">Spectrum 2022</h1>
 				<div class="morecontent">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 				</div>
 			</div>
 			<div class="angle-right"></div>
@@ -48,7 +47,7 @@ require("_includes/config.php");
 					<div class="col item">
 						<a href="case/task1.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/case_01.jpeg" style = "margin:-1px 0 -10px" class="card-img-top" alt="...">
 								
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 100%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
@@ -64,9 +63,9 @@ require("_includes/config.php");
 					</div>
 					
 					<div class="col item">
-						<a href="case/task1.php">
+						<a href="case/task2.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/case_02.jpeg" style = "margin:-1px 0 -10px"class="card-img-top" alt="...">
 							
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 100%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
@@ -81,9 +80,9 @@ require("_includes/config.php");
 					</div>
 
 					<div class="col item">
-						<a href="case/task1.php">
+						<a href="case/task3.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/case_03.jpeg" style = "margin:-1px 0 -10px"class="card-img-top" alt="...">
 					
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 35%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
@@ -100,9 +99,9 @@ require("_includes/config.php");
 				<div class="row row-cols-1 row-cols-sm-3 row-cols-xl-3">
 					
 					<div class="col item">
-						<a href="case/task1.php">
+						<a href="case/task4.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/case_04.jpeg" style = "margin:-1px 0 -10px"class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -115,9 +114,9 @@ require("_includes/config.php");
 					</div>
 					
 					<div class="col item">
-						<a href="case/task1.php">
+						<a href="case/task5.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/case_05.jpeg" style = "margin:-1px 0 -10px"class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -130,9 +129,9 @@ require("_includes/config.php");
 					</div>
 
 					<div class="col item">
-						<a href="case/task1.php">
+						<a href="case/task6.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/case_06.jpeg" style = "margin:-1px 0 -10px"class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -147,11 +146,11 @@ require("_includes/config.php");
 
 				<div class="row row-cols-1 row-cols-sm-3 row-cols-xl-3">
 					<div class="col item">
-						<a href="case/task1.php">
+						<a href="case/task7.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/case_07.jpeg" style = "margin:-1px 0 -10px"class="card-img-top" alt="...">
 								<div class="progress"> 
-									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 80%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
 								<div class="card-body">
 									<h4 class="card-title">Lesson 7</h4>
@@ -162,9 +161,9 @@ require("_includes/config.php");
 					</div>
 					
 					<div class="col item">
-						<a href="case/task1.php">
+						<a href="case/task8.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/case_08.jpeg" style = "margin:-1px 0 -10px"class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -177,9 +176,9 @@ require("_includes/config.php");
 					</div>
 				
 					<div class="col item">
-							<a href="case/task1.php">
+							<a href="case/task9.php">
 								<div class="card h-100">
-									<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+									<img src="_assets/images/case_09.jpeg" style = "margin:-1px 0 -10px"class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -198,9 +197,9 @@ require("_includes/config.php");
 				<div class="row row-cols-1 row-cols-sm-3 row-cols-xl-4">
 					
 					<div class="col item">
-						<a href="">
+						<a href="life/task1.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/life_01.jpeg" class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -213,9 +212,9 @@ require("_includes/config.php");
 					</div>
 
 					<div class="col item">
-						<a href="">
+						<a href="life/task2.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/life_02.jpeg" class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -228,9 +227,9 @@ require("_includes/config.php");
 					</div>
 
 					<div class="col item">
-						<a href="">
+						<a href="life/task3.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/life_03.jpeg" class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -243,9 +242,9 @@ require("_includes/config.php");
 					</div>
 
 					<div class="col item">
-						<a href="">
+						<a href="life/task4.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/life_04.jpeg" class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -258,9 +257,9 @@ require("_includes/config.php");
 					</div>
 
 					<div class="col item">
-						<a href="">
+						<a href="life/task5.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/life_05.jpeg" class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
@@ -273,9 +272,9 @@ require("_includes/config.php");
 					</div>
 
 					<div class="col item">
-						<a href="">
+						<a href="life/task6.php">
 							<div class="card h-100">
-								<img src="_assets/images/video-blank.jpg" class="card-img-top" alt="...">
+								<img src="_assets/images/life_06.jpeg" class="card-img-top" alt="...">
 								<div class="progress"> 
 									<div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%; background-color: #0b2341" role="progressbar" aria-label="Animated striped example" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
 								</div>
