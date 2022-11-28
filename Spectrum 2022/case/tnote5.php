@@ -63,7 +63,7 @@
     </div>
     
     <br/>
-    <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="task6.php">Next Lession</a>
+    <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="task6.php">Next Lesson</a>
 
   </div>
   <!------- End Main Content ------->

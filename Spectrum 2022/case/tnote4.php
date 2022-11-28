@@ -59,11 +59,11 @@
     </br>    
 
     <div class="ratio ratio-16x9">
-      <video src="../_assets/case/2tnote.mp4" position="relative" controls></video>
+      <video src="../_assets/case/4tnote.mp4" position="relative" controls></video>
     </div>
     
     <br/>
-    <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="task5.php">Next Lession</a>
+    <a class="mt-2 mt-md-0 btn btn-au-bdark my-2 my-sm-0" href="task5.php">Next Lesson</a>
 
   </div>
   <!------- End Main Content ------->
