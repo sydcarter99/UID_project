@@ -10,7 +10,7 @@
 	/* PAGE & SPECIFIC METADATA - These are basic page metadata variables that can be customized for each page; These can also be updated on your config file for site-wide usage */
 
 	$sitename = "Auburn University";
-	$pagetitle = "Lession 1: Experience Student";
+	$pagetitle = "Lesson 1: Experience Student";
 	$keywords = "Auburn University, Auburn, Alabama, War Eagle";
 	$description = "Auburn University, one of the South’s largest universities, is a leader in arts and applied science education, and it brings a tradition of spirit to the responsive career preparation it offers.";
  	$previewimage = "https://auburn.edu/template/2022/_assets/images/bank/page-preview-samford-03.jpg";
@@ -54,7 +54,7 @@
 
   <!------- Main Content ------->
   <div class="col-md-7 ">
-   <h2 class="section-header">Lession 1: Experience Student</h2>
+   <h2 class="section-header">Lesson 1: Experience Student</h2>
 
    <br>
    <h4 class="section-header"> Reflection and discussion </h4>
