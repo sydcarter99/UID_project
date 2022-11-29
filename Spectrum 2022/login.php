@@ -1,7 +1,7 @@
 <? 
     require("_includes/config.php"); ?>
 
-  <link rel="stylesheet" href="../_css/style.css">
+  <link rel="stylesheet" href="_css/style.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -83,31 +83,6 @@
                                     Login</button>
                             </div>  
 
-  <!-- Example Code -->
-    
-  <div aria-live="polite" aria-atomic="true" class="position-relative">
-      <!-- Position it: -->
-      <!-- - `.toast-container` for spacing between toasts -->
-      <!-- - `top-0` & `end-0` to position the toasts in the upper right corner -->
-      <!-- - `.p-3` to prevent the toasts from sticking to the edge of the container  -->
-      <div class="toast-body">
-    
-        <!-- Then put toasts within -->
-        <div class="toast fade show" role="alert" aria-live="assertive" aria-atomic="true">
-          <div class="toast-header">    
-            <strong class="me-auto">Spectrum</strong>
-            <small class="text-muted">Just now</small>
-            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
-          </div>
-          <div class="toast-body">
-            Username: <b>test</b>
-            </br>
-            Password: <b>test</b>
-          </div>
-        </div>
-      </div>
-    </div>
-    
     <!-- End Example Code -->
                             <div class="login-or">
                                 <hr class="hr-or">

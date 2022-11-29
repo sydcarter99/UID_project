@@ -38,7 +38,7 @@
 			
 				<div class="col-md-3 image">
 					<a href="case/task1.php">
-					<img src="_assets/images/case.jpeg"  class="img-thumbnail" alt="...">
+					<img src="_assets/images/case.jpeg" style = "margin:-1px 0 -10px" class="img-thumbnail" alt="...">
 					</a>
 					<br/>
 					<br/>
