@@ -32,7 +32,7 @@
           </ul>
         </li>   
 		<li class="nav-item">
-		  <a class="nav-link" href="process.php">Process</a>
+		  <a class="nav-link" href="process.php">Faculty</a>
 		</li>
 	  </ul>
 	  	<?php
